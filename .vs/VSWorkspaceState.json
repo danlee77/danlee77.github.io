@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\fontawesome",
+    "\\fontawesome\\css"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\css\\bootstrap.min.css",
   "PreviewInSolutionExplorer": false
 }
